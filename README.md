@@ -1,4 +1,4 @@
-### Hi there, I'm Balaji R - aka [NightFury5535][https://community.letsupgrade.in/user/bjbalaji11] 👋
+### Hi there, I'm Balaji R - aka [NightFury5535][website] 👋
 
 ## I'm a Developer, and Freelancer!
 - 🔭 I’m currently working in SimpleSolve Technologies Pvt Limited
