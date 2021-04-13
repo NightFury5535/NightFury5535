@@ -1,10 +1,10 @@
 ### Hi there, I'm Balaji R - aka [NightFury5535][website] 👋
 
-## I'm a Developer, and Freelancer!
+## I'm a Developer and Freelancer!
 - 🔭 I’m currently working in SimpleSolve Technologies Pvt Limited
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn AI/ML
+- 🥅 2021 Goals: Learn AI/ML
 - ⚡ Fun fact: I love to draw
 
 ### Connect with me:
