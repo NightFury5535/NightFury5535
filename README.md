@@ -1,7 +1,7 @@
 ### Hi there, I'm Balaji R - aka [NightFury5535][website] 👋
 
 ## I'm a Developer and Freelancer!
-- 🔭 I’m currently working in Geofid India Pvt Limited
+- 🔭 I’m currently working in Geodis India Pvt Limited
 - 🌱 I’m currently learning AI Engineering 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Learn AI/ML
